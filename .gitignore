@@ -1,0 +1,63 @@
+# ROS 2 build files
+build/
+install/
+log/
+.colcon/
+
+# Python compiled files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+venv/
+.env/
+src/eurobot_vision/aruco_detection_test.py
+src/eurobot_vision/'aruco_node_test copy.py'
+src/eurobot_vision/'camera_publisher copy.py'
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+# ROS 2 build files
+build/
+install/
+log/
+.colcon/
+
+# Python compiled files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+venv/
+.env/
+
+# Specific files to ignore
+aruco_detection_test.py
+aruco_node_test copy.py
+camera_publisher copy.py
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+build/
+install/
+log/
+**/__pycache__/
+*.pyc
+.vscode/
+
+.vscode/
